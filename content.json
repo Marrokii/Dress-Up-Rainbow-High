@@ -1,0 +1,3590 @@
+{
+  "app": {
+    "logo_url": "https://placehold.co/280x80/FF6EB4/FFFFFF/png?text=Rainbow+High",
+    "background_home_url": "https://placehold.co/1200x2400/FFD6EC/FF6EB4/png?text=Bedroom",
+    "dress_icon_url": "https://placehold.co/56x56/FF6EB4/FFFFFF/png?text=D",
+    "shop_icon_url": "https://placehold.co/56x56/C264FE/FFFFFF/png?text=S",
+    "gallery_icon_url": "https://placehold.co/56x56/B8F0E6/4A2060/png?text=G"
+  },
+  "characters": [
+    {
+      "id": 1,
+      "name": "Stella Monroe",
+      "hair_color": "Golden Blonde",
+      "thumbnail_url": "https://blogger.googleusercontent.com/img/a/AVvXsEg87f20vf_5A1bfYPhbA7kybjQP93qvfyYQ6Hs0Wz6533dvq02nUhopUMpZ7Gih9Rfokp9JOV48evAntDz8lqFyGVntB-5h1hHf1ebexa4HRDzH3hwI4sqcBKyxpcXivdT6YzS3-OYO3bOvM0edMNGHUBeaExcdV6RcfG8u7VeI07DAa2VyI4Xu6_qLYRQ",
+      "full_body_url": "https://blogger.googleusercontent.com/img/a/AVvXsEg87f20vf_5A1bfYPhbA7kybjQP93qvfyYQ6Hs0Wz6533dvq02nUhopUMpZ7Gih9Rfokp9JOV48evAntDz8lqFyGVntB-5h1hHf1ebexa4HRDzH3hwI4sqcBKyxpcXivdT6YzS3-OYO3bOvM0edMNGHUBeaExcdV6RcfG8u7VeI07DAa2VyI4Xu6_qLYRQ"
+    },
+    {
+      "id": 2,
+      "name": "Bella Parker",
+      "hair_color": "Brunette",
+      "thumbnail_url": "https://picsum.photos/seed/char2/300/400",
+      "full_body_url": "https://picsum.photos/seed/char2/400/700"
+    },
+    {
+      "id": 3,
+      "name": "Luna Chen",
+      "hair_color": "Black",
+      "thumbnail_url": "https://picsum.photos/seed/char3/300/400",
+      "full_body_url": "https://picsum.photos/seed/char3/400/700"
+    },
+    {
+      "id": 4,
+      "name": "Ruby Blake",
+      "hair_color": "Auburn",
+      "thumbnail_url": "https://picsum.photos/seed/char4/300/400",
+      "full_body_url": "https://picsum.photos/seed/char4/400/700"
+    },
+    {
+      "id": 5,
+      "name": "Violet Storm",
+      "hair_color": "Purple",
+      "thumbnail_url": "https://picsum.photos/seed/char5/300/400",
+      "full_body_url": "https://picsum.photos/seed/char5/400/700"
+    },
+    {
+      "id": 6,
+      "name": "Jade West",
+      "hair_color": "Green",
+      "thumbnail_url": "https://picsum.photos/seed/char6/300/400",
+      "full_body_url": "https://picsum.photos/seed/char6/400/700"
+    },
+    {
+      "id": 7,
+      "name": "Sunny Madison",
+      "hair_color": "Pink",
+      "thumbnail_url": "https://picsum.photos/seed/char7/300/400",
+      "full_body_url": "https://picsum.photos/seed/char7/400/700"
+    },
+    {
+      "id": 8,
+      "name": "Skyler Bradshaw",
+      "hair_color": "Blue",
+      "thumbnail_url": "https://picsum.photos/seed/char8/300/400",
+      "full_body_url": "https://picsum.photos/seed/char8/400/700"
+    },
+    {
+      "id": 9,
+      "name": "Poppy Rowan",
+      "hair_color": "Red",
+      "thumbnail_url": "https://picsum.photos/seed/char9/300/400",
+      "full_body_url": "https://picsum.photos/seed/char9/400/700"
+    },
+    {
+      "id": 10,
+      "name": "Honey Swamp",
+      "hair_color": "Honey",
+      "thumbnail_url": "https://picsum.photos/seed/char10/300/400",
+      "full_body_url": "https://picsum.photos/seed/char10/400/700"
+    }
+  ],
+  "categories": [
+    {
+      "id": "hairstyles",
+      "display_name": "Hairstyles",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Ha",
+      "items": [
+        {
+          "id": "hairstyles_001",
+          "name": "Wavy Blonde",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "hairstyles_002",
+          "name": "Straight Black",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "hairstyles_003",
+          "name": "Curly Red",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "hairstyles_004",
+          "name": "Braided Crown",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "hairstyles_005",
+          "name": "Ponytail",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "hairstyles_006",
+          "name": "High Bun",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "hairstyles_007",
+          "name": "Pixie Cut",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "hairstyles_008",
+          "name": "Side Swept",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "hairstyles_009",
+          "name": "Double Braids",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "hairstyles_010",
+          "name": "Messy Waves",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "hairstyles_011",
+          "name": "Princess Curls",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "hairstyles_012",
+          "name": "Bob Cut",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "hairstyles_013",
+          "name": "Space Buns",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "hairstyles_014",
+          "name": "Long Layers",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "hairstyles_015",
+          "name": "Fishtail Braid",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "hairstyles_016",
+          "name": "Top Knot",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "hairstyles_017",
+          "name": "Half Up",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "hairstyles_018",
+          "name": "Ringlet Curls",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "hairstyles_019",
+          "name": "Mohawk Style",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "hairstyles_020",
+          "name": "Twisted Updo",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "hair_color",
+      "display_name": "Hair Color",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Ha",
+      "items": [
+        {
+          "id": "hair_color_001",
+          "name": "Blonde",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "hair_color_002",
+          "name": "Brunette",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "hair_color_003",
+          "name": "Black",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "hair_color_004",
+          "name": "Red",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "hair_color_005",
+          "name": "Pink",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "hair_color_006",
+          "name": "Purple",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "hair_color_007",
+          "name": "Blue",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "hair_color_008",
+          "name": "Ombre Pink",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "hair_color_009",
+          "name": "Pastel Blue",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "hair_color_010",
+          "name": "Silver",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "hair_color_011",
+          "name": "Rainbow",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "hair_color_012",
+          "name": "Mint Green",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "hair_color_013",
+          "name": "Lavender",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "hair_color_014",
+          "name": "Copper",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "hair_color_015",
+          "name": "Auburn",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "hair_color_016",
+          "name": "Platinum",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "hair_color_017",
+          "name": "Rose Gold",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "hair_color_018",
+          "name": "Teal",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "hair_color_019",
+          "name": "Coral",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "hair_color_020",
+          "name": "Gold",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "hats",
+      "display_name": "Hats & Headwear",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Ha",
+      "items": [
+        {
+          "id": "hats_001",
+          "name": "Baseball Cap",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "hats_002",
+          "name": "Beanie",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "hats_003",
+          "name": "Beret",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "hats_004",
+          "name": "Cowboy Hat",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "hats_005",
+          "name": "Crown",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "hats_006",
+          "name": "Bucket Hat",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "hats_007",
+          "name": "Headband",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "hats_008",
+          "name": "Bow",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "hats_009",
+          "name": "Sun Hat",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "hats_010",
+          "name": "Tiara",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "hats_011",
+          "name": "Wizard Hat",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "hats_012",
+          "name": "Flower Crown",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "hats_013",
+          "name": "Fascinator",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "hats_014",
+          "name": "Visor",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "hats_015",
+          "name": "Turban",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "hats_016",
+          "name": "Cloche",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "hats_017",
+          "name": "Pillbox",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "hats_018",
+          "name": "Fedora",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "hats_019",
+          "name": "Straw Hat",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "hats_020",
+          "name": "Party Hat",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "glasses",
+      "display_name": "Glasses",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Gl",
+      "items": [
+        {
+          "id": "glasses_001",
+          "name": "Round Frames",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "glasses_002",
+          "name": "Cat-Eye",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "glasses_003",
+          "name": "Aviator",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "glasses_004",
+          "name": "Clear Frames",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "glasses_005",
+          "name": "Heart Shaped",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "glasses_006",
+          "name": "Oversized",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "glasses_007",
+          "name": "Retro Round",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "glasses_008",
+          "name": "Geometric",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "glasses_009",
+          "name": "Star Frames",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "glasses_010",
+          "name": "Pink Tinted",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "glasses_011",
+          "name": "Rainbow Frames",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "glasses_012",
+          "name": "Butterfly",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "glasses_013",
+          "name": "Hexagon",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "glasses_014",
+          "name": "Rimless",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "glasses_015",
+          "name": "Sport",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "glasses_016",
+          "name": "Vintage",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "glasses_017",
+          "name": "Gradient",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "glasses_018",
+          "name": "Sparkle",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "glasses_019",
+          "name": "Animal Print",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "glasses_020",
+          "name": "Gold Wire",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "earrings",
+      "display_name": "Earrings",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Ea",
+      "items": [
+        {
+          "id": "earrings_001",
+          "name": "Hoops Small",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "earrings_002",
+          "name": "Studs Pearl",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "earrings_003",
+          "name": "Dangly Star",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "earrings_004",
+          "name": "Gold Hoops",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "earrings_005",
+          "name": "Heart Studs",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "earrings_006",
+          "name": "Crystal Drop",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "earrings_007",
+          "name": "Button Pearls",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "earrings_008",
+          "name": "Chandelier",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "earrings_009",
+          "name": "Huggie",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "earrings_010",
+          "name": "Threader",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "earrings_011",
+          "name": "Statement Hoops",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "earrings_012",
+          "name": "Diamond Studs",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "earrings_013",
+          "name": "Rainbow Drops",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "earrings_014",
+          "name": "Butterfly",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "earrings_015",
+          "name": "Moon & Star",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "earrings_016",
+          "name": "Flower",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "earrings_017",
+          "name": "Beaded",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "earrings_018",
+          "name": "Tassel",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "earrings_019",
+          "name": "Geometric",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "earrings_020",
+          "name": "Vintage",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "necklace",
+      "display_name": "Necklaces",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Ne",
+      "items": [
+        {
+          "id": "necklace_001",
+          "name": "Choker",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "necklace_002",
+          "name": "Pendant",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "necklace_003",
+          "name": "Layered Chains",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "necklace_004",
+          "name": "Pearl Strand",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "necklace_005",
+          "name": "Heart Pendant",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "necklace_006",
+          "name": "Initial",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "necklace_007",
+          "name": "Collar",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "necklace_008",
+          "name": "Lariat",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "necklace_009",
+          "name": "Bib",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "necklace_010",
+          "name": "Princess",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "necklace_011",
+          "name": "Statement Piece",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "necklace_012",
+          "name": "Crystal",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "necklace_013",
+          "name": "Rainbow Beads",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "necklace_014",
+          "name": "Y Necklace",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "necklace_015",
+          "name": "Rope",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "necklace_016",
+          "name": "Bolo",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "necklace_017",
+          "name": "Opera Length",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "necklace_018",
+          "name": "Multi Strand",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "necklace_019",
+          "name": "Gemstone",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "necklace_020",
+          "name": "Lock Key",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "bags",
+      "display_name": "Bags",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Ba",
+      "items": [
+        {
+          "id": "bags_001",
+          "name": "Handbag",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "bags_002",
+          "name": "Backpack",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "bags_003",
+          "name": "Clutch",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "bags_004",
+          "name": "Tote",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "bags_005",
+          "name": "Crossbody",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "bags_006",
+          "name": "Mini Bag",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "bags_007",
+          "name": "Bucket Bag",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "bags_008",
+          "name": "Satchel",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "bags_009",
+          "name": "Chain Strap",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "bags_010",
+          "name": "Straw Bag",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "bags_011",
+          "name": "Designer Tote",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "bags_012",
+          "name": "Evening Clutch",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "bags_013",
+          "name": "Belt Bag",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "bags_014",
+          "name": "Hobo",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "bags_015",
+          "name": "Structured",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "bags_016",
+          "name": "Quilted",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "bags_017",
+          "name": "Embroidered",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "bags_018",
+          "name": "Metallic",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "bags_019",
+          "name": "Printed",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "bags_020",
+          "name": "Vintage",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "skin_color",
+      "display_name": "Skin Color",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Sk",
+      "items": [
+        {
+          "id": "skin_color_001",
+          "name": "Porcelain",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "skin_color_002",
+          "name": "Fair",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "skin_color_003",
+          "name": "Light",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "skin_color_004",
+          "name": "Light Medium",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "skin_color_005",
+          "name": "Medium",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "skin_color_006",
+          "name": "Tan",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "skin_color_007",
+          "name": "Olive",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "skin_color_008",
+          "name": "Brown",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "skin_color_009",
+          "name": "Dark Brown",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "skin_color_010",
+          "name": "Deep",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "skin_color_011",
+          "name": "Warm Ivory",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "skin_color_012",
+          "name": "Cool Beige",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "skin_color_013",
+          "name": "Golden",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "skin_color_014",
+          "name": "Caramel",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "skin_color_015",
+          "name": "Bronze",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "skin_color_016",
+          "name": "Mahogany",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "skin_color_017",
+          "name": "Espresso",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "skin_color_018",
+          "name": "Rich Brown",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "skin_color_019",
+          "name": "Ebony",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "skin_color_020",
+          "name": "Custom",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "eyes",
+      "display_name": "Eye Shape & Color",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Ey",
+      "items": [
+        {
+          "id": "eyes_001",
+          "name": "Blue",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "eyes_002",
+          "name": "Green",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "eyes_003",
+          "name": "Brown",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "eyes_004",
+          "name": "Hazel",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "eyes_005",
+          "name": "Gray",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "eyes_006",
+          "name": "Amber",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "eyes_007",
+          "name": "Violet",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "eyes_008",
+          "name": "Pink",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "eyes_009",
+          "name": "Teal",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "eyes_010",
+          "name": "Gold",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "eyes_011",
+          "name": "Heterochromia",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "eyes_012",
+          "name": "Ocean Blue",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "eyes_013",
+          "name": "Forest Green",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "eyes_014",
+          "name": "Honey",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "eyes_015",
+          "name": "Silver",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "eyes_016",
+          "name": "Lavender",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "eyes_017",
+          "name": "Mint",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "eyes_018",
+          "name": "Copper",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "eyes_019",
+          "name": "Sapphire",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "eyes_020",
+          "name": "Emerald",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "eyebrows",
+      "display_name": "Eyebrow Shape",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Ey",
+      "items": [
+        {
+          "id": "eyebrows_001",
+          "name": "Natural",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "eyebrows_002",
+          "name": "Arched",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "eyebrows_003",
+          "name": "Straight",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "eyebrows_004",
+          "name": "Thick",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "eyebrows_005",
+          "name": "Thin",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "eyebrows_006",
+          "name": "Soft Arch",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "eyebrows_007",
+          "name": "Bold",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "eyebrows_008",
+          "name": "Feathered",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "eyebrows_009",
+          "name": "Rounded",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "eyebrows_010",
+          "name": "Angled",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "eyebrows_011",
+          "name": "Dramatic",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "eyebrows_012",
+          "name": "Sparse",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "eyebrows_013",
+          "name": "Gradient",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "eyebrows_014",
+          "name": "Bushy",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "eyebrows_015",
+          "name": "Tapered",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "eyebrows_016",
+          "name": "High Arch",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "eyebrows_017",
+          "name": "Flat",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "eyebrows_018",
+          "name": "Winged",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "eyebrows_019",
+          "name": "Ombre",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "eyebrows_020",
+          "name": "Defined",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "eyelashes",
+      "display_name": "Eyelashes",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Ey",
+      "items": [
+        {
+          "id": "eyelashes_001",
+          "name": "Natural",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "eyelashes_002",
+          "name": "Wispy",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "eyelashes_003",
+          "name": "Dramatic",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "eyelashes_004",
+          "name": "Colorful",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "eyelashes_005",
+          "name": "Curled",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "eyelashes_006",
+          "name": "Lower Only",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "eyelashes_007",
+          "name": "Double Layer",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "eyelashes_008",
+          "name": "Feathery",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "eyelashes_009",
+          "name": "Glitter",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "eyelashes_010",
+          "name": "Long",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "eyelashes_011",
+          "name": "Strip",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "eyelashes_012",
+          "name": "Individual",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "eyelashes_013",
+          "name": "Magnetic",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "eyelashes_014",
+          "name": "Volume",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "eyelashes_015",
+          "name": "Cat Eye",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "eyelashes_016",
+          "name": "Bottom Heavy",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "eyelashes_017",
+          "name": "Fanned",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "eyelashes_018",
+          "name": "Gradient",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "eyelashes_019",
+          "name": "Star",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "eyelashes_020",
+          "name": "Rainbow",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "lipstick",
+      "display_name": "Lipstick Color",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Li",
+      "items": [
+        {
+          "id": "lipstick_001",
+          "name": "Nude",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "lipstick_002",
+          "name": "Pink",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "lipstick_003",
+          "name": "Red",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "lipstick_004",
+          "name": "Berry",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "lipstick_005",
+          "name": "Gloss",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "lipstick_006",
+          "name": "Ombre",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "lipstick_007",
+          "name": "Coral",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "lipstick_008",
+          "name": "Mauve",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "lipstick_009",
+          "name": "Peach",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "lipstick_010",
+          "name": "Rose",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "lipstick_011",
+          "name": "Metallic",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "lipstick_012",
+          "name": "Matte Red",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "lipstick_013",
+          "name": "Wine",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "lipstick_014",
+          "name": "Orange",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "lipstick_015",
+          "name": "Lavender",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "lipstick_016",
+          "name": "Gold",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "lipstick_017",
+          "name": "Plum",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "lipstick_018",
+          "name": "Brown",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "lipstick_019",
+          "name": "Fuchsia",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "lipstick_020",
+          "name": "Sparkle",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "bottoms",
+      "display_name": "Jeans & Trousers",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Je",
+      "items": [
+        {
+          "id": "bottoms_001",
+          "name": "Skinny Jeans",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "bottoms_002",
+          "name": "Wide Leg",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "bottoms_003",
+          "name": "Cargo",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "bottoms_004",
+          "name": "Leggings",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "bottoms_005",
+          "name": "Tailored",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "bottoms_006",
+          "name": "Palazzo",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "bottoms_007",
+          "name": "Cropped",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "bottoms_008",
+          "name": "High Waist",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "bottoms_009",
+          "name": "Distressed",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "bottoms_010",
+          "name": "Flare",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "bottoms_011",
+          "name": "Designer Jeans",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "bottoms_012",
+          "name": "Leather Pants",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "bottoms_013",
+          "name": "Plaid Trousers",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "bottoms_014",
+          "name": "Velvet",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "bottoms_015",
+          "name": "Striped",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "bottoms_016",
+          "name": "Paper Bag",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "bottoms_017",
+          "name": "Joggers",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "bottoms_018",
+          "name": "Chinos",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "bottoms_019",
+          "name": "Bootcut",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "bottoms_020",
+          "name": "Straight",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "skirts",
+      "display_name": "Skirts",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Sk",
+      "items": [
+        {
+          "id": "skirts_001",
+          "name": "Mini",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "skirts_002",
+          "name": "Midi",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "skirts_003",
+          "name": "Maxi",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "skirts_004",
+          "name": "Pleated",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "skirts_005",
+          "name": "Wrap",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "skirts_006",
+          "name": "Tutu",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "skirts_007",
+          "name": "Denim",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "skirts_008",
+          "name": "A-Line",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "skirts_009",
+          "name": "Pencil",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "skirts_010",
+          "name": "Circle",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "skirts_011",
+          "name": "Tiered",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "skirts_012",
+          "name": "Asymmetric",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "skirts_013",
+          "name": "Leather",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "skirts_014",
+          "name": "Sequined",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "skirts_015",
+          "name": "Floral",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "skirts_016",
+          "name": "High Low",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "skirts_017",
+          "name": "Balloon",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "skirts_018",
+          "name": "Slip",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "skirts_019",
+          "name": "Bubble",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "skirts_020",
+          "name": "Metallic",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "shorts",
+      "display_name": "Shorts",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Sh",
+      "items": [
+        {
+          "id": "shorts_001",
+          "name": "Denim Cutoffs",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "shorts_002",
+          "name": "Biker",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "shorts_003",
+          "name": "Plaid",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "shorts_004",
+          "name": "Athletic",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "shorts_005",
+          "name": "High Waist",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "shorts_006",
+          "name": "Cargo Shorts",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "shorts_007",
+          "name": "Paper Bag",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "shorts_008",
+          "name": "Pleated",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "shorts_009",
+          "name": "Linen",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "shorts_010",
+          "name": "Tailored",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "shorts_011",
+          "name": "Designer",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "shorts_012",
+          "name": "Leather",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "shorts_013",
+          "name": "Embroidered",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "shorts_014",
+          "name": "Printed",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "shorts_015",
+          "name": "Wide Leg",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "shorts_016",
+          "name": "Bermuda",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "shorts_017",
+          "name": "Hot Pants",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "shorts_018",
+          "name": "Culotte",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "shorts_019",
+          "name": "Running",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "shorts_020",
+          "name": "Casual",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "shoes",
+      "display_name": "Shoes",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Sh",
+      "items": [
+        {
+          "id": "shoes_001",
+          "name": "Sneakers",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "shoes_002",
+          "name": "Heels",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "shoes_003",
+          "name": "Boots",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "shoes_004",
+          "name": "Sandals",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "shoes_005",
+          "name": "Flats",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "shoes_006",
+          "name": "Platform",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "shoes_007",
+          "name": "Loafers",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "shoes_008",
+          "name": "Knee High",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "shoes_009",
+          "name": "Ankle Boots",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "shoes_010",
+          "name": "Slides",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "shoes_011",
+          "name": "Designer Heels",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "shoes_012",
+          "name": "Combat Boots",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "shoes_013",
+          "name": "Espadrilles",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "shoes_014",
+          "name": "Mules",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "shoes_015",
+          "name": "Oxford",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "shoes_016",
+          "name": "Wedges",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "shoes_017",
+          "name": "Mary Janes",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "shoes_018",
+          "name": "Over Knee",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "shoes_019",
+          "name": "Glitter",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "shoes_020",
+          "name": "Rainbow",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "tops",
+      "display_name": "Tops",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=To",
+      "items": [
+        {
+          "id": "tops_001",
+          "name": "T-Shirt",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "tops_002",
+          "name": "Tank",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "tops_003",
+          "name": "Crop Top",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "tops_004",
+          "name": "Off-Shoulder",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "tops_005",
+          "name": "Corset",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "tops_006",
+          "name": "Blouse",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "tops_007",
+          "name": "Polo",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "tops_008",
+          "name": "Henley",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "tops_009",
+          "name": "Bodysuit",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "tops_010",
+          "name": "Bandeau",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "tops_011",
+          "name": "Designer Top",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "tops_012",
+          "name": "Sequined",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "tops_013",
+          "name": "Mesh",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "tops_014",
+          "name": "Wrap Top",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "tops_015",
+          "name": "Peplum",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "tops_016",
+          "name": "Cold Shoulder",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "tops_017",
+          "name": "Turtleneck",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "tops_018",
+          "name": "Bustier",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "tops_019",
+          "name": "Lace",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "tops_020",
+          "name": "Satin",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "outerwear",
+      "display_name": "Outerwear",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Ou",
+      "items": [
+        {
+          "id": "outerwear_001",
+          "name": "Denim Jacket",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "outerwear_002",
+          "name": "Blazer",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "outerwear_003",
+          "name": "Leather Jacket",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "outerwear_004",
+          "name": "Trench",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "outerwear_005",
+          "name": "Hoodie",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "outerwear_006",
+          "name": "Cardigan",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "outerwear_007",
+          "name": "Bomber",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "outerwear_008",
+          "name": "Coat",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "outerwear_009",
+          "name": "Vest",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "outerwear_010",
+          "name": "Shrug",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "outerwear_011",
+          "name": "Fur Coat",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "outerwear_012",
+          "name": "Puffer",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "outerwear_013",
+          "name": "Cape",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "outerwear_014",
+          "name": "Bolero",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "outerwear_015",
+          "name": "Windbreaker",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "outerwear_016",
+          "name": "Cropped Jacket",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "outerwear_017",
+          "name": "Wrap Coat",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "outerwear_018",
+          "name": "Quilted",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "outerwear_019",
+          "name": "Metallic",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "outerwear_020",
+          "name": "Velvet",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "dresses",
+      "display_name": "Dresses",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Dr",
+      "items": [
+        {
+          "id": "dresses_001",
+          "name": "Casual Mini",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "dresses_002",
+          "name": "Cocktail",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "dresses_003",
+          "name": "Maxi",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "dresses_004",
+          "name": "Floral",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "dresses_005",
+          "name": "Bodycon",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "dresses_006",
+          "name": "Wrap",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "dresses_007",
+          "name": "A-Line",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "dresses_008",
+          "name": "Shift",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "dresses_009",
+          "name": "Slip",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "dresses_010",
+          "name": "Ball Gown",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "dresses_011",
+          "name": "Designer",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "dresses_012",
+          "name": "Sequined",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "dresses_013",
+          "name": "Off Shoulder",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "dresses_014",
+          "name": "High Low",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "dresses_015",
+          "name": "Midi",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "dresses_016",
+          "name": "Pencil",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "dresses_017",
+          "name": "Tiered",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "dresses_018",
+          "name": "Lace",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "dresses_019",
+          "name": "Satin",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "dresses_020",
+          "name": "Tulle",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "complete_outfits",
+      "display_name": "Complete Outfits",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Co",
+      "items": [
+        {
+          "id": "complete_outfits_001",
+          "name": "Street Style",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "complete_outfits_002",
+          "name": "Glam",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "complete_outfits_003",
+          "name": "Bohemian",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "complete_outfits_004",
+          "name": "Preppy",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "complete_outfits_005",
+          "name": "Sporty",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "complete_outfits_006",
+          "name": "Edgy",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "complete_outfits_007",
+          "name": "Romantic",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "complete_outfits_008",
+          "name": "Minimal",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "complete_outfits_009",
+          "name": "Retro",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "complete_outfits_010",
+          "name": "Cozy",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "complete_outfits_011",
+          "name": "Designer Set",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "complete_outfits_012",
+          "name": "Red Carpet",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "complete_outfits_013",
+          "name": "Festival",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "complete_outfits_014",
+          "name": "Office",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "complete_outfits_015",
+          "name": "Vacation",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "complete_outfits_016",
+          "name": "Party",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "complete_outfits_017",
+          "name": "Casual Chic",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "complete_outfits_018",
+          "name": "Gothic",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "complete_outfits_019",
+          "name": "Preppy Plus",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "complete_outfits_020",
+          "name": "Y2K",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    },
+    {
+      "id": "seasonal_outfits",
+      "display_name": "Seasonal Outfits",
+      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Se",
+      "items": [
+        {
+          "id": "seasonal_outfits_001",
+          "name": "Halloween",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 1
+        },
+        {
+          "id": "seasonal_outfits_002",
+          "name": "Christmas",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=2",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 2
+        },
+        {
+          "id": "seasonal_outfits_003",
+          "name": "Summer Beach",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=3",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 3
+        },
+        {
+          "id": "seasonal_outfits_004",
+          "name": "Spring Florals",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=4",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 4
+        },
+        {
+          "id": "seasonal_outfits_005",
+          "name": "Fall Cozy",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=5",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 5
+        },
+        {
+          "id": "seasonal_outfits_006",
+          "name": "New Year",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=6",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 6
+        },
+        {
+          "id": "seasonal_outfits_007",
+          "name": "Valentine",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=7",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 7
+        },
+        {
+          "id": "seasonal_outfits_008",
+          "name": "Easter",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=8",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 8
+        },
+        {
+          "id": "seasonal_outfits_009",
+          "name": "Thanksgiving",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=9",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 9
+        },
+        {
+          "id": "seasonal_outfits_010",
+          "name": "Back to School",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=10",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": true,
+          "sort_order": 10
+        },
+        {
+          "id": "seasonal_outfits_011",
+          "name": "Winter Wonderland",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=11",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 11
+        },
+        {
+          "id": "seasonal_outfits_012",
+          "name": "Pool Party",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=12",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 12
+        },
+        {
+          "id": "seasonal_outfits_013",
+          "name": "Harvest",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=13",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 13
+        },
+        {
+          "id": "seasonal_outfits_014",
+          "name": "Cherry Blossom",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=14",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 14
+        },
+        {
+          "id": "seasonal_outfits_015",
+          "name": "Snow Day",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=15",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 15
+        },
+        {
+          "id": "seasonal_outfits_016",
+          "name": "Picnic",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=16",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 16
+        },
+        {
+          "id": "seasonal_outfits_017",
+          "name": "Carnival",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=17",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 17
+        },
+        {
+          "id": "seasonal_outfits_018",
+          "name": "Graduation",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=18",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 18
+        },
+        {
+          "id": "seasonal_outfits_019",
+          "name": "Birthday",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=19",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 19
+        },
+        {
+          "id": "seasonal_outfits_020",
+          "name": "Rainy Day",
+          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=20",
+          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "is_free": false,
+          "sort_order": 20
+        }
+      ]
+    }
+  ]
+}
