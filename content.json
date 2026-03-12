@@ -2253,13 +2253,13 @@
     {
       "id": "skirts",
       "display_name": "Skirts",
-      "icon_url": "https://placehold.co/120x120/FF6EB4/FFFFFF/png?text=+&text=Sk",
+      "icon_url": "https://png.pngtree.com/png-clipart/20221011/ourmid/pngtree-pink-skirt-png-image_6301269.png",
       "items": [
         {
           "id": "skirts_001",
           "name": "Mini",
-          "image_url": "https://placehold.co/140x140/FFF0F8/FF6EB4/png?text=+&text=1",
-          "overlay_url": "https://placehold.co/300x600/FFFFFF/E0E0E0/png?text=+",
+          "image_url": "https://png.pngtree.com/png-clipart/20221011/ourmid/pngtree-pink-skirt-png-image_6301269.png",
+          "overlay_url": "https://png.pngtree.com/png-clipart/20221011/ourmid/pngtree-pink-skirt-png-image_6301269.png",
           "is_free": true,
           "sort_order": 1
         },
